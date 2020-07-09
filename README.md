@@ -1,2 +1,2 @@
-# Retail-Analysis-SAS
-Retail Analysis for Data Scientist Masters using SAS
+# Retail-Analysis
+Retail Dataset Analysis (SimpliLearn dataset) in SAS
